@@ -1,0 +1,1244 @@
+Name: AKAD Hochschulen für Berufstätige, Fachhochschule Leipzig
+Country: Germany
+Web Page: http://www.akad.de/
+
+Name: Alice-Salomon-Fachhochschule für Sozialarbeit und Sozialpädagogik Berlin
+Country: Germany
+Web Page: http://www.asfh-berlin.de/
+
+Name: Augustana Hochschule Neuendettelsau
+Country: Germany
+Web Page: http://www.augustana.de/
+
+Name: Kirchliche Hochschule Bethel
+Country: Germany
+Web Page: http://www.bethel.de/kiho/
+
+Name: BiTS - Business and Information Technology School gGmbH
+Country: Germany
+Web Page: http://www.bits-iserlohn.de/
+
+Name: Cologne Business School
+Country: Germany
+Web Page: http://www.cbs.de/
+
+Name: CODE University of Applied Sciences Berlin
+Country: Germany
+Web Page: http://code.berlin/
+
+Name: Deutsche Hochschule für Verwaltungswissenschaften Speyer
+Country: Germany
+Web Page: http://www.dhv-speyer.de/
+
+Name: DIPLOMA-Fachhochschule Ölsnitz/Vogtland
+Country: Germany
+Web Page: http://www.diploma.de/
+
+Name: Deutsche Sporthochschule Köln
+Country: Germany
+Web Page: http://www.dshs-koeln.de/
+
+Name: E.A.P. Europäische Wirtschaftshochschule Berlin
+Country: Germany
+Web Page: http://www.eap.net/
+
+Name: Europäische Betriebswirtschafts-Akademie
+Country: Germany
+Web Page: http://www.eba-muenchen.de/
+
+Name: European Business School Schloß Reichartshausen
+Country: Germany
+Web Page: http://www.ebs.de/
+
+Name: European College of Liberal Arts
+Country: Germany
+Web Page: http://www.ecla.de/
+
+Name: Evangelische Fachhochschule Rheinland-Westfalen-Lippe
+Country: Germany
+Web Page: http://www.efh-bochum.de/
+
+Name: Evangelische Fachhochschule Darmstadt
+Country: Germany
+Web Page: https://www.eh-darmstadt.de/
+
+Name: Evangelische Fachhochschule Freiburg, Hochschule für Soziale Arbeit, Diakonie und Religionspädagogik
+Country: Germany
+Web Page: http://www.efh-freiburg.de/
+
+Name: Evangelische Fachhochschule Hannover
+Country: Germany
+Web Page: http://www.efh-hannover.de/
+
+Name: Evangelische Fachhochschule Ludwigshafen Hochschule für Sozial- und Gesundheitswesen
+Country: Germany
+Web Page: http://www.efhlu.de/
+
+Name: Evangelische Fachhochschule Reutlingen-Ludwigsburg, Hochschule für Soziale Arbeit, Religionspädagogik und Diakonie
+Country: Germany
+Web Page: http://www.efh-reutlingen-ludwigsburg.de/
+
+Name: Evangelische Hochschule für Soziale Arbeit Dresden (FH)
+Country: Germany
+Web Page: http://www.ehs-dresden.de/
+
+Name: European Management School
+Country: Germany
+Web Page: http://www.ems-mainz.de/
+
+Name: Europäische Fachhochschule
+Country: Germany
+Web Page: http://www.eufh.de/
+
+Name: Europa-Universität Viadrina Frankfurt (Oder)
+Country: Germany
+Web Page: http://www.euv-frankfurt-o.de/
+
+Name: Evangelische Fachhochschule Berlin, Fachhochschule für Sozialarbeit und Sozialpädagogik
+Country: Germany
+Web Page: http://www.evfh-berlin.de/
+
+Name: Evangelische Fachhochschule Nürnberg
+Country: Germany
+Web Page: http://www.evfh-nuernberg.de/
+
+Name: Fern-Fachhochschule Hamburg
+Country: Germany
+Web Page: http://www.fern-fh.de/
+
+Name: Fernuniversität Gesamthochschule Hagen
+Country: Germany
+Web Page: http://www.fernuni-hagen.de/
+
+Name: Fachhochschule Aachen
+Country: Germany
+Web Page: http://www.fh-aachen.de/
+
+Name: Fachhochschule Aschaffenburg
+Country: Germany
+Web Page: http://www.fh-aschaffenburg.de/
+
+Name: Fachhochschule Augsburg
+Country: Germany
+Web Page: http://www.fh-augsburg.de/
+
+Name: Internationale Fachhochschule Bad Honnef
+Country: Germany
+Web Page: http://www.fh-bad-honnef.de/
+
+Name: Fachhochschule Biberach, Hochschule für Bauwesen und Wirtschaft
+Country: Germany
+Web Page: http://www.fh-biberach.de/
+
+Name: Fachhochschule Bielefeld
+Country: Germany
+Web Page: http://www.fh-bielefeld.de/
+
+Name: Fachhochschule Bingen
+Country: Germany
+Web Page: http://www.fh-bingen.de/
+
+Name: Fachhochschule Bochum
+Country: Germany
+Web Page: http://www.fh-bochum.de/
+
+Name: Hochschule Bonn-Rhein-Sieg
+Country: Germany
+Web Page: http://www.hochschule-bonn-rhein-sieg.de/
+
+Name: Fachhochschule Brandenburg
+Country: Germany
+Web Page: http://www.fh-brandenburg.de/
+
+Name: Technische Hochschule Brandenburg
+Country: Germany
+Web Page: http://www.th-brandenburg.de/
+
+Name: Technische Hochschule Deggendorf
+Country: Germany
+Web Page: http://www.th-deg.de/
+
+Name: Fachhochschule Dortmund
+Country: Germany
+Web Page: http://www.fh-dortmund.de/
+
+Name: Hochschule Düsseldorf
+Country: Germany
+Web Page: http://www.hs-duesseldorf.de/
+
+Name: Fachhochschule für die Wirtschaft
+Country: Germany
+Web Page: http://www.fhdw.bib.de/
+
+Name: Fachhochschule der Wirtschaft
+Country: Germany
+Web Page: http://www.fhdw.de/
+
+Name: Fachhochschule Eberswalde
+Country: Germany
+Web Page: http://www.fh-eberswalde.de/
+
+Name: Fachhochschule Erfurt
+Country: Germany
+Web Page: http://www.fh-erfurt.de/
+
+Name: Fachhochschule Flensburg
+Country: Germany
+Web Page: http://www.fh-flensburg.de/
+
+Name: Fachhochschule Frankfurt am Main
+Country: Germany
+Web Page: http://www.fh-frankfurt.de/
+
+Name: Europa Fachhochschule Fresenius
+Country: Germany
+Web Page: http://www.fh-fresenius.de/
+
+Name: Fachhochschule Furtwangen, Hochschule für Technik und Wirtschaft
+Country: Germany
+Web Page: http://www.fh-furtwangen.de/
+
+Name: Fachhochschule Gelsenkirchen
+Country: Germany
+Web Page: http://www.fh-gelsenkirchen.de/
+
+Name: Fachhochschule Gießen-Friedberg
+Country: Germany
+Web Page: http://www.fh-giessen.de/
+
+Name: Fachhochschule Hamburg
+Country: Germany
+Web Page: http://www.fh-hamburg.de/
+
+Name: Fachhochschule Hannover
+Country: Germany
+Web Page: http://www.fh-hannover.de/
+
+Name: Fachhochschule Heidelberg
+Country: Germany
+Web Page: http://www.fh-heidelberg.de/
+
+Name: Fachhochschule Heilbronn, Hochschule für Technik und Wirtschaft
+Country: Germany
+Web Page: http://www.fh-heilbronn.de/
+
+Name: Fachhochschule Hildesheim/Holzminden/Göttingen, Hochschule für angewandte Wissenschaft und Kunst
+Country: Germany
+Web Page: http://www.fh-hildesheim.de/
+
+Name: Fachhochschule Hof
+Country: Germany
+Web Page: http://www.fh-hof.de/
+
+Name: Technische Hochschule Ingolstadt
+Country: Germany
+Web Page: https://www.thi.de/
+
+Name: Fachhochschule und Berufskollegs NTA, Prof.Dr. Grübler gemein. GmbH
+Country: Germany
+Web Page: http://www.fh-isny.de/
+
+Name: Fachhochschule Jena
+Country: Germany
+Web Page: http://www.fh-jena.de/
+
+Name: Fachhochschule Karlsruhe, Hochschule für Technik
+Country: Germany
+Web Page: http://www.fh-karlsruhe.de/
+
+Name: Fachhochschule Kempten, Hochschule für Technik und Wirtschaft
+Country: Germany
+Web Page: http://www.fh-Kempten.de/
+
+Name: Fachhochschule Kiel
+Country: Germany
+Web Page: http://www.fh-kiel.de/
+
+Name: Fachhochschule Kaiserslautern
+Country: Germany
+Web Page: http://www.fh-kl.de/
+
+Name: Fachhochschule Koblenz
+Country: Germany
+Web Page: http://www.fh-koblenz.de/
+
+Name: Technische Hochschule Köln
+Country: Germany
+Web Page: https://www.th-koeln.de/
+
+Name: Fachhochschule Konstanz, Hochschule für Technik, Wirtschaft und Gestaltung
+Country: Germany
+Web Page: http://www.fh-konstanz.de/
+
+Name: Staatlich anerkannte Fachhochschule für Kunsttherapie
+Country: Germany
+Web Page: http://www.fhkt.de/
+
+Name: Fachhochschule Landshut, Hochschule für Wirtschaft - Sozialwesen - Technik
+Country: Germany
+Web Page: http://www.fh-landshut.de/
+
+Name: Fachhochschule Lausitz
+Country: Germany
+Web Page: http://www.fh-lausitz.de/
+
+Name: Fachhochschule Lippe
+Country: Germany
+Web Page: http://www.fh-lippe.de/
+
+Name: Fachhochschule Ludwigshafen, Hochschule für Wirtschaft
+Country: Germany
+Web Page: http://www.fh-ludwigshafen.de/
+
+Name: Fachhochschule Lübeck
+Country: Germany
+Web Page: http://www.fh-luebeck.de/
+
+Name: Fachhochschule Mainz
+Country: Germany
+Web Page: http://www.fh-mainz.de/
+
+Name: Fachhochschule Mannheim, Hochschule für Technik und Gestaltung
+Country: Germany
+Web Page: http://www.fh-mannheim.de/
+
+Name: Fachhochschule Merseburg
+Country: Germany
+Web Page: http://www.fh-merseburg.de/
+
+Name: Fachhochschule des Mittelstandes (FHM)
+Country: Germany
+Web Page: http://www.fhm-mittelstand.de/
+
+Name: Fachhochschule München
+Country: Germany
+Web Page: http://www.fh-muenchen.de/
+
+Name: Hochschule München
+Country: Germany
+Web Page: http://www.hm.edu/
+
+Name: Fachhochschule Münster
+Country: Germany
+Web Page: http://www.fh-muenster.de/
+
+Name: Fachhochschule Neubrandenburg
+Country: Germany
+Web Page: http://www.fh-nb.de/
+
+Name: Hochschule Neu-Ulm, Hochschule Neu-Ulm University of applied sciences
+Country: Germany
+Web Page: http://www.hs-neu-ulm.de/
+
+Name: Fachhochschule Niederrhein
+Country: Germany
+Web Page: http://www.fh-niederrhein.de/
+
+Name: Fachhochschule Nordostniedersachsen
+Country: Germany
+Web Page: http://www.fhnon.de/
+
+Name: Fachhochschule Nordhausen
+Country: Germany
+Web Page: http://www.fh-nordhausen.de/
+
+Name: Georg-Simon-Ohm-Fachhochschule Nürnberg
+Country: Germany
+Web Page: http://www.fh-nuernberg.de/
+
+Name: Fachhochschule Nürtingen, Hochschule für Wirtschaft, Landwirtschaft und Landespflege
+Country: Germany
+Web Page: http://www.fh-nuertingen.de/
+
+Name: Fachhochschule für das öffentliche Bibliothekswesen Bonn
+Country: Germany
+Web Page: http://www.fhoebb.de/
+
+Name: Fachhochschule Offenburg, Hochschule für Technik und Wirtschaft
+Country: Germany
+Web Page: http://www.fh-offenburg.de/
+
+Name: Fachhochschule Oldenburg/Ostfriesland/Wilhelmshaven
+Country: Germany
+Web Page: http://www.fh-oow.de/
+
+Name: Fachhochschule Osnabrück
+Country: Germany
+Web Page: http://www.fh-osnabrueck.de/
+
+Name: Freie Kunst-Studienstätte Ottersberg
+Country: Germany
+Web Page: http://www.fh-ottersberg.de/
+
+Name: Fachhochschule Pforzheim, Hochschule für Gestaltung, Technik und Wirtschaft
+Country: Germany
+Web Page: http://www.fh-pforzheim.de/
+
+Name: Fachhochschule Potsdam
+Country: Germany
+Web Page: http://www.fh-potsdam.de/
+
+Name: Fachhochschule Regensburg
+Country: Germany
+Web Page: http://www.fh-regensburg.de/
+
+Name: Fachhochschule Reutlingen, Hochschule für Technik und Wirtschaft
+Country: Germany
+Web Page: http://www.fh-reutlingen.de/
+
+Name: Deutsch-Ordens Fachhochschule Riedlingen, Hochschule für Wirtschaft
+Country: Germany
+Web Page: http://www.fh-riedlingen.de/
+
+Name: Fachhochschule Rosenheim, Hochschule für Technik und Wirtschaft
+Country: Germany
+Web Page: http://www.fh-rosenheim.de/
+
+Name: Fachhochschule Rottenburg, Hochschule für Forstwirtschaft
+Country: Germany
+Web Page: http://www.fh-rottenburg.de/
+
+Name: Fachhochschule Schmalkalden
+Country: Germany
+Web Page: http://www.fh-schmalkalden.de/
+
+Name: Fachhochschule Schwäbisch Hall, Hochschule für Gestaltung
+Country: Germany
+Web Page: http://www.fh-schwaebischhall.de/
+
+Name: Fachhochschule Mannheim, Hochschule für Sozialwesen
+Country: Germany
+Web Page: http://www.fhs-mannheim.de/
+
+Name: Evangelische Fachhochschule für Religionspädagogik, und Gemeindediakonie Moritzburg
+Country: Germany
+Web Page: http://www.fhs-moritzburg.de/
+
+Name: Fachhochschule Stralsund
+Country: Germany
+Web Page: http://www.fh-stralsund.de/
+
+Name: Deutsche Telekom Fachhochschule Leipzig
+Country: Germany
+Web Page: http://www.fh-telekom-leipzig.de/
+
+Name: Fachhochschule Trier, Hochschule für Technik, Wirtschaft und Gestaltung
+Country: Germany
+Web Page: http://www.fh-trier.de/
+
+Name: Fachhochschule Stuttgart, Hochschule für Technik
+Country: Germany
+Web Page: http://www.fht-stuttgart.de/
+
+Name: Hochschule für Technik und Wirtschaft Berlin
+Country: Germany
+Web Page: https://www.htw-berlin.de/
+
+Name: Hochschule Ulm, Hochschule für Angewandte Wissenschaft
+Country: Germany
+Web Page: http://www.hs-ulm.de/
+
+Name: Fachhochschule für Verwaltung und Rechtspflege Berlin
+Country: Germany
+Web Page: http://www.fhvr.berlin.de/
+
+Name: Fachhochschule für Wirtschaft Berlin
+Country: Germany
+Web Page: http://www.fhw-berlin.de/
+
+Name: Fachhochschule Wedel
+Country: Germany
+Web Page: http://www.fh-wedel.de/
+
+Name: Fachhochschule Weihenstephan
+Country: Germany
+Web Page: http://www.fh-weihenstephan.de/
+
+Name: Fachhochschule Ravensburg-Weingarten
+Country: Germany
+Web Page: http://www.fh-weingarten.de/
+
+Name: Fachhochschule Westküste, Hochschule für Wirtschaft und Technik
+Country: Germany
+Web Page: http://www.fh-westkueste.de/
+
+Name: Fachhochschule Wiesbaden
+Country: Germany
+Web Page: http://www.fh-wiesbaden.de/
+
+Name: Ostfalia Hochschule für angewandte Wissenschaften
+Country: Germany
+Web Page: https://www.ostfalia.de/
+
+Name: Fachhochschule Worms
+Country: Germany
+Web Page: http://www.fh-worms.de/
+
+Name: Private Fachhochschule für Wirtschaft und Technik Vechta/Diepholz
+Country: Germany
+Web Page: http://www.fhwt.de/
+
+Name: Fachhochschule Würzburg - Schweinfurt
+Country: Germany
+Web Page: http://www.fh-wuerzburg.de/
+
+Name: Westsächsische Hochschule Zwickau (FH)
+Country: Germany
+Web Page: http://www.fh-zwickau.de/
+
+Name: Fachhochschule für Oekonomie und Management (FOM)
+Country: Germany
+Web Page: http://www.fom.de/
+
+Name: Freie Universität Berlin
+Country: Germany
+Web Page: http://www.fu-berlin.de/
+
+Name: Private Hanseuniversität
+Country: Germany
+Web Page: http://www.hanseuni.de/
+
+Name: Hafencity Universität Hamburg
+Country: Germany
+Web Page: http://www.hcu-hamburg.de/
+
+Name: Fachhochschule Stuttgart, Hochschule der Medien
+Country: Germany
+Web Page: http://www.hdm-stuttgart.de/
+
+Name: Hertie School of Governance
+Country: Germany
+Web Page: http://www.hertie-school.org/
+
+Name: Hochschule für Bankwirtschaft (HfB), Private Fachhochschule der Bankakademie
+Country: Germany
+Web Page: http://www.hfb.de/
+
+Name: Fachhochschule Schwäbisch Gmünd, Hochschule für Gestaltung
+Country: Germany
+Web Page: http://www.hfg-gmuend.de/
+
+Name: Hochschule für Philosophie München
+Country: Germany
+Web Page: http://www.hfph.mwn.de/
+
+Name: Hochschule für Politik (HFP)
+Country: Germany
+Web Page: http://www.hfp.mhn.de/
+
+Name: Handelshochschule Leipzig
+Country: Germany
+Web Page: http://www.hhl.de/
+
+Name: Hochschule für Internationales Management
+Country: Germany
+Web Page: http://www.himh.de/
+
+Name: Hochschule für Jüdische Studien Heidelberg
+Country: Germany
+Web Page: http://www.hjs.uni-heidelberg.de/
+
+Name: Hochschule Albstadt-Sigmaringen
+Country: Germany
+Web Page: http://www.hs-albsig.de/
+
+Name: Hochschule Anhalt (FH), Hochschule für angewandte Wissenschaften
+Country: Germany
+Web Page: http://www.hs-anhalt.de/
+
+Name: Hochschule Bremen
+Country: Germany
+Web Page: http://www.hs-bremen.de/
+
+Name: Hochschule Bremerhaven
+Country: Germany
+Web Page: http://www.hs-bremerhaven.de/
+
+Name: Hochschule Coburg
+Country: Germany
+Web Page: http://www.hs-coburg.de/
+
+Name: Hochschule Darmstadt
+Country: Germany
+Web Page: https://www.h-da.de/
+
+Name: Hochschule Esslingen
+Country: Germany
+Web Page: http://www.hs-esslingen.de/
+
+Name: Hochschule Fulda
+Country: Germany
+Web Page: http://www.hs-fulda.de/
+
+Name: Hochschule Harz, Hochschule für angewandte Wissenschaften (FH)
+Country: Germany
+Web Page: http://www.hs-harz.de/
+
+Name: Hochschule Magdeburg-Stendal (FH)
+Country: Germany
+Web Page: http://www.hs-magdeburg.de/
+
+Name: Hochschule Wismar, Fachhochschule für Technik, Wirtschaft und Gestaltung
+Country: Germany
+Web Page: http://www.hs-wismar.de/
+
+Name: Hochschule Zittau/Görlitz (FH)
+Country: Germany
+Web Page: http://www.hs-zigr.de/
+
+Name: Hochschule für Technik und Wirtschaft Dresden (FH)
+Country: Germany
+Web Page: http://www.htw-dresden.de/
+
+Name: Hochschule für Technik, Wirtschaft und Kultur Leipzig (FH)
+Country: Germany
+Web Page: http://www.htwk-leipzig.de/
+
+Name: Hochschule Mittweida, University of Applied Sciences
+Country: Germany
+Web Page: http://www.htwm.de/
+
+Name: Hochschule für Technik und Wirtschaft des Saarlandes
+Country: Germany
+Web Page: http://www.htw-saarland.de/
+
+Name: Humboldt Universität Berlin
+Country: Germany
+Web Page: http://www.hu-berlin.de/
+
+Name: HWP - Hamburger Universität für Wirtschaft und Politik
+Country: Germany
+Web Page: http://www.hwp-hamburg.de/
+
+Name: Internationales Hochschulinstitut Zittau
+Country: Germany
+Web Page: http://www.ihi-zittau.de/
+
+Name: Internationale Fachhochschule Aalen
+Country: Germany
+Web Page: http://www.international.fh-aalen.de/
+
+Name: International School of Management ISM Dortmund
+Country: Germany
+Web Page: http://www.ism-dortmund.de/
+
+Name: International School of New Media, University of Lübeck
+Country: Germany
+Web Page: http://www.isnm.de/
+
+Name: International University in Germany
+Country: Germany
+Web Page: http://www.i-u.de/
+
+Name: Jacobs University Bremen
+Country: Germany
+Web Page: http://www.jacobs-university.de/
+
+Name: Karlshochschule International University
+Country: Germany
+Web Page: http://www.karlshochschule.de/
+
+Name: Katholische Fachhochschule Norddeutschland
+Country: Germany
+Web Page: http://www.kath-fh-nord.de/
+
+Name: Katholische Fachhochschule Berlin (KFB)
+Country: Germany
+Web Page: http://www.kfb-berlin.de/
+
+Name: Katholische Fachhochschule Freiburg, Hochschule für Sozialwesen, Religionspädagogik und Pflege
+Country: Germany
+Web Page: http://www.kfh-Freiburg.de/
+
+Name: Katholische Fachhochschule Mainz
+Country: Germany
+Web Page: http://www.kfh-mainz.de/
+
+Name: Katholische Fachhochschule Nordrhein-Westfalen
+Country: Germany
+Web Page: http://www.kfhnw.de/
+
+Name: Kunsthochschule Berlin-Weissensee, Hochschule für Gestaltung
+Country: Germany
+Web Page: http://www.kh-berlin.de/
+
+Name: Katholische Hochschule für Soziale Arbeit Saarbrücken
+Country: Germany
+Web Page: http://www.khsa.de/
+
+Name: Katholische Stiftungsfachhochschule München
+Country: Germany
+Web Page: http://www.ksfh.de/
+
+Name: Katholische Universität Eichstätt
+Country: Germany
+Web Page: http://www.ku-eichstaett.de/
+
+Name: Kunstakademie Düsseldorf.
+Country: Germany
+Web Page: http://www.kunstakademie-duesseldorf.de/
+
+Name: Merkur Internationale FH Karlsruhe
+Country: Germany
+Web Page: http://www.merkur-fh.org/
+
+Name: Merz Akademie, Hochschule für Gestaltung Stuttgart
+Country: Germany
+Web Page: http://www.merz-akademie.de/
+
+Name: Märkische Fachhochschule Iserlohn
+Country: Germany
+Web Page: http://www.mfh-iserlohn.de/
+
+Name: Medizinische Hochschule Hannover
+Country: Germany
+Web Page: http://www.mh-hannover.de/
+
+Name: Staatliche Hochschule für Musik
+Country: Germany
+Web Page: http://www.mh-trossingen.de/
+
+Name: Medizinische Universität Lübeck
+Country: Germany
+Web Page: http://www.mu-luebeck.de/
+
+Name: Muthesius-Hochschule, Fachhochschule für Kunst und Gestaltung
+Country: Germany
+Web Page: http://www.muthesius.de/
+
+Name: Nordakademie, Staatlich anerkannte private Fachhochschule mit dualen Studiengängen
+Country: Germany
+Web Page: http://www.nordakademie.de/
+
+Name: Theologische Fakultät Paderborn
+Country: Germany
+Web Page: http://www.paderborn.de/theofak/
+
+Name: Private Fachhochschule Göttingen
+Country: Germany
+Web Page: http://www.pfh-goettingen.de/
+
+Name: Pädagogische Hochschule Erfurt/Mühlhausen
+Country: Germany
+Web Page: http://www.ph-erfurt.de/
+
+Name: Pädagogische Hochschule Freiburg
+Country: Germany
+Web Page: http://www.ph-freiburg.de/
+
+Name: Pädagogische Hochschule Schwäbisch Gmünd
+Country: Germany
+Web Page: http://www.ph-gmuend.de/
+
+Name: Pädagogische Hochschule Heidelberg
+Country: Germany
+Web Page: http://www.ph-heidelberg.de/
+
+Name: Philosophisch-Theologische Hochschule SVD Sankt Augustin
+Country: Germany
+Web Page: http://www.philtheol-augustin.de/
+
+Name: Pädagogische Hochschule Karlsruhe
+Country: Germany
+Web Page: http://www.ph-karlsruhe.de/
+
+Name: Pädagogische Hochschule Ludwigsburg
+Country: Germany
+Web Page: http://www.ph-ludwigsburg.de/
+
+Name: Pädagogische Hochschule Weingarten
+Country: Germany
+Web Page: http://www.ph-weingarten.de/
+
+Name: Popakademie Baden-Württemberg
+Country: Germany
+Web Page: http://www.popakademie.de/
+
+Name: Private FernFachhochschule Darmstadt
+Country: Germany
+Web Page: http://www.privatfh-da.de/
+
+Name: Philosophisch-Theologische Hochschule der Salesianer Don Boscos
+Country: Germany
+Web Page: http://www.pth-bb.de/
+
+Name: Philosophisch-Theologische Hochschule Münster
+Country: Germany
+Web Page: http://www.pth-muenster.de/
+
+Name: Philosophisch-Theologische Hochschule Vallendar der Gesellschaft des Katholischen Apostolates (Pallottiner)
+Country: Germany
+Web Page: http://www.pthv.de/
+
+Name: Evangelische Fachhochschule für Sozialpädagogik der "Diakonenanstalt des Rauhen Hauses" Hamburg
+Country: Germany
+Web Page: http://www.rauheshaus.de/fachhochschule/
+
+Name: Rheinische Fachhochschule Köln
+Country: Germany
+Web Page: http://www.rfh-koeln.de/
+
+Name: Ruhr-Universität Bochum
+Country: Germany
+Web Page: http://www.ruhr-uni-bochum.de/
+
+Name: Rheinisch Westfälische Technische Hochschule Aachen
+Country: Germany
+Web Page: http://www.rwth-aachen.de/
+
+Name: Lutherische Theologische Hochschule Oberursel
+Country: Germany
+Web Page: http://www.selk.de/LThH/
+
+Name: Gustav-Siewerth-Akademie
+Country: Germany
+Web Page: http://www.siewerth-akademie.de/
+
+Name: Schiller International University, Heidelberg
+Country: Germany
+Web Page: http://www.siu-heidelberg.de/
+
+Name: SRH University of Applied Sciences
+Country: Germany
+Web Page: http://www.srh-berlin.de/
+
+Name: Philosophisch-Theologische Hochschule Sankt Georgen
+Country: Germany
+Web Page: http://www.st-georgen.uni-frankfurt.de/
+
+Name: Steinbeis-Hochschule-Berlin
+Country: Germany
+Web Page: http://www.stw.de/shb/
+
+Name: Technische Fachhochschule Berlin
+Country: Germany
+Web Page: http://www.tfh-berlin.de/
+
+Name: Technische Fachhochschule Georg Agricola für Rohstoff, Energie und, Umwelt zu Bochum
+Country: Germany
+Web Page: http://www.tfh-bochum.de/
+
+Name: Technische Fachhochschule Wildau
+Country: Germany
+Web Page: http://www.tfh-wildau.de/
+
+Name: Theologische Hochschule Friedensau
+Country: Germany
+Web Page: http://www.thh-friedensau.de/
+
+Name: Tierärztliche Hochschule Hannover
+Country: Germany
+Web Page: http://www.tiho-hannover.de/
+
+Name: Technische Universität Berlin
+Country: Germany
+Web Page: http://www.tu-berlin.de/
+
+Name: Technische Universität Carolo-Wilhelmina zu Braunschweig
+Country: Germany
+Web Page: https://www.tu-braunschweig.de/
+
+Name: Technische Universität Chemnitz
+Country: Germany
+Web Page: http://www.tu-chemnitz.de/
+
+Name: Technische Universität Clausthal
+Country: Germany
+Web Page: http://www.tu-clausthal.de/
+
+Name: Brandenburgische Technische Universität Cottbus
+Country: Germany
+Web Page: http://www.tu-cottbus.de/
+
+Name: Technische Universität Darmstadt
+Country: Germany
+Web Page: https://www.tu-darmstadt.de/
+
+Name: Technische Universität Dresden
+Country: Germany
+Web Page: http://www.tu-dresden.de/
+
+Name: Technische Universität Bergakademie Freiberg
+Country: Germany
+Web Page: http://www.tu-freiberg.de/
+
+Name: Technische Universität Hamburg
+Country: Germany
+Web Page: http://www.tuhh.de/
+
+Name: Technische Universität Ilmenau
+Country: Germany
+Web Page: http://www.tu-ilmenau.de/
+
+Name: Technische Universität München
+Country: Germany
+Web Page: http://www.tum.de/
+
+Name: Universität Augsburg
+Country: Germany
+Web Page: http://www.uni-augsburg.de/
+
+Name: Otto-Friedrich Universität Bamberg
+Country: Germany
+Web Page: http://www.uni-bamberg.de/
+
+Name: Universität Bayreuth
+Country: Germany
+Web Page: http://www.uni-bayreuth.de/
+
+Name: Universität Bielefeld
+Country: Germany
+Web Page: http://www.uni-bielefeld.de/
+
+Name: Rheinische Friedrich-Wilhelms Universität Bonn
+Country: Germany
+Web Page: http://www.uni-bonn.de/
+
+Name: Universität Bremen
+Country: Germany
+Web Page: http://www.uni-bremen.de/
+
+Name: Universität der Bundeswehr Hamburg
+Country: Germany
+Web Page: http://www.unibw-hamburg.de/
+
+Name: Universität der Bundeswehr München
+Country: Germany
+Web Page: http://www.unibw-muenchen.de/
+
+Name: Technische Universität Dortmund
+Country: Germany
+Web Page: http://www.tu-dortmund.de/
+
+Name: Heinrich-Heine Universität Düsseldorf
+Country: Germany
+Web Page: http://www.uni-duesseldorf.de/
+
+Name: Universität Duisburg-Essen
+Country: Germany
+Web Page: http://www.uni-duisburg-essen.de/
+
+Name: Universität Erfurt
+Country: Germany
+Web Page: http://www.uni-erfurt.de/
+
+Name: Friedrich-Alexander Universität Erlangen-Nürnberg
+Country: Germany
+Web Page: https://www.fau.de/
+
+Name: Universität Flensburg
+Country: Germany
+Web Page: http://www.uni-flensburg.de/
+
+Name: Johann Wolfgang Goethe Universität Frankfurt am Main
+Country: Germany
+Web Page: http://www.uni-frankfurt.de/
+
+Name: Albert-Ludwigs-Universität Freiburg
+Country: Germany
+Web Page: http://www.uni-freiburg.de/
+
+Name: Justus Liebig Universität Gießen
+Country: Germany
+Web Page: http://www.uni-giessen.de/
+
+Name: Georg-August Universität Göttingen
+Country: Germany
+Web Page: http://www.uni-goettingen.de/
+
+Name: Ernst-Moritz-Arndt Universität Greifswald
+Country: Germany
+Web Page: http://www.uni-greifswald.de/
+
+Name: Martin-Luther Universität Halle-Wittenberg
+Country: Germany
+Web Page: http://www.uni-halle.de/
+
+Name: Universität Hamburg
+Country: Germany
+Web Page: http://www.uni-hamburg.de/
+
+Name: Universität Hannover
+Country: Germany
+Web Page: http://www.uni-hannover.de/
+
+Name: Ruprecht-Karls-Universität Heidelberg
+Country: Germany
+Web Page: http://www.uni-heidelberg.de/
+
+Name: Universität Hildesheim
+Country: Germany
+Web Page: http://www.uni-hildesheim.de/
+
+Name: Universität Hohenheim
+Country: Germany
+Web Page: http://www.uni-hohenheim.de/
+
+Name: Friedrich-Schiller Universität Jena
+Country: Germany
+Web Page: http://www.uni-jena.de/
+
+Name: Karlsruher Institut für Technologie
+Country: Germany
+Web Page: http://www.kit.edu/
+
+Name: Universität Kassel
+Country: Germany
+Web Page: http://www.uni-kassel.de/
+
+Name: Christian-Albrechts-Universität Kiel
+Country: Germany
+Web Page: http://www.uni-kiel.de/
+
+Name: Universität Kaiserslautern
+Country: Germany
+Web Page: http://www.uni-kl.de/
+
+Name: Universität Koblenz-Landau
+Country: Germany
+Web Page: http://www.uni-koblenz-landau.de/
+
+Name: Universität Köln
+Country: Germany
+Web Page: http://www.uni-koeln.de/
+
+Name: Universität Konstanz
+Country: Germany
+Web Page: http://www.uni-konstanz.de/
+
+Name: Universität Leipzig
+Country: Germany
+Web Page: http://www.uni-leipzig.de/
+
+Name: Universität Lüneburg
+Country: Germany
+Web Page: http://www.uni-lueneburg.de/
+
+Name: Otto-von-Guericke Universität Magdeburg
+Country: Germany
+Web Page: http://www.uni-magdeburg.de/
+
+Name: Johannes-Gutenberg Universität Mainz
+Country: Germany
+Web Page: http://www.uni-mainz.de/
+
+Name: Universität Mannheim
+Country: Germany
+Web Page: http://www.uni-mannheim.de/
+
+Name: Phillips-Universität Marburg
+Country: Germany
+Web Page: http://www.uni-marburg.de/
+
+Name: Ludwig-Maximilians-Universität München
+Country: Germany
+Web Page: http://www.lmu.de/
+
+Name: Westfälische Wilhelms-Universität Münster
+Country: Germany
+Web Page: http://www.uni-muenster.de/
+
+Name: Carl von Ossietzky Universität Oldenburg
+Country: Germany
+Web Page: https://uol.de
+
+Name: Universität Osnabrück
+Country: Germany
+Web Page: http://www.uni-osnabrueck.de/
+
+Name: Universität Paderborn
+Country: Germany
+Web Page: http://www.uni-paderborn.de/
+
+Name: Universität Passau
+Country: Germany
+Web Page: http://www.uni-passau.de/
+
+Name: Universität Potsdam
+Country: Germany
+Web Page: http://www.uni-potsdam.de/
+
+Name: Universität Polsdam
+Country: Germany
+Web Page: http://www.uni-polsdam.de/
+
+Name: Universität Regensburg
+Country: Germany
+Web Page: http://www.uni-regensburg.de/
+
+Name: Universität Rostock
+Country: Germany
+Web Page: http://www.uni-rostock.de/
+
+Name: Universität des Saarlandes
+Country: Germany
+Web Page: http://www.uni-saarland.de/
+
+Name: Universität Siegen
+Country: Germany
+Web Page: http://www.uni-siegen.de/
+
+Name: Universität Stuttgart
+Country: Germany
+Web Page: http://www.uni-stuttgart.de/
+
+Name: Universität Trier
+Country: Germany
+Web Page: http://www.uni-trier.de/
+
+Name: Eberhard-Karls-Universität Tübingen
+Country: Germany
+Web Page: http://www.uni-tuebingen.de/
+
+Name: Universität Ulm
+Country: Germany
+Web Page: http://www.uni-ulm.de/
+
+Name: Hochschule Vechta
+Country: Germany
+Web Page: http://www.uni-vechta.de/
+
+Name: Bauhaus Universität Weimar
+Country: Germany
+Web Page: http://www.uni-weimar.de/
+
+Name: Private Universität Witten/Herdecke
+Country: Germany
+Web Page: http://www.uni-wh.de/
+
+Name: Bayerische Julius-Maximilians-Universität Würzburg
+Country: Germany
+Web Page: http://www.uni-wuerzburg.de/
+
+Name: Bergische Universität Gesamthochschule Wuppertal
+Country: Germany
+Web Page: http://www.uni-wuppertal.de/
+
+Name: Wissenschaftliche Hochschule für Unternehmensführung, Otto-Beisheim Hochschule
+Country: Germany
+Web Page: http://www.whu-koblenz.de/
+
+Name: Duale Hochschule Baden-Württemberg
+Country: Germany
+Web Page: http://www.dhbw.de/
+
+Name: Duale Hochschule Baden-Württemberg Heidenheim
+Country: Germany
+Web Page: http://www.heidenheim.dhbw.de/
+
+Name: Duale Hochschule Baden-Württemberg Center for Advanced Studies (CAS)
+Country: Germany
+Web Page: http://www.cas.dhbw.de/
+
+Name: Duale Hochschule Baden-Württemberg Lörrach
+Country: Germany
+Web Page: http://www.dhbw-loerrach.de/
+
+Name: Duale Hochschule Baden-Württemberg Mosbach
+Country: Germany
+Web Page: http://www.dhbw-mosbach.de/
+
+Name: Duale Hochschule Baden-Württemberg Ravensburg
+Country: Germany
+Web Page: http://www.ravensburg.dhbw.de/
+
+Name: Duale Hochschule Baden-Württemberg Stuttgart
+Country: Germany
+Web Page: http://www.dhbw-stuttgart.de/
+
+Name: Duale Hochschule Baden-Württemberg Villingen-Schwenningen
+Country: Germany
+Web Page: http://www.dhbw-vs.de/
+
+Name: Duale Hochschule Baden-Württemberg Heilbronn
+Country: Germany
+Web Page: http://www.heilbronn.dhbw.de/
+
+Name: Duale Hochschule Baden-Württemberg Karlsruhe
+Country: Germany
+Web Page: http://www.dhbw-karlsruhe.de/
+
+Name: Duale Hochschule Baden-Wuerttemberg Mannheim
+Country: Germany
+Web Page: http://www.dhbw-mannheim.de/
+
+Name: Hochschule Hannover
+Country: Germany
+Web Page: https://www.hs-hannover.de/
+
+Name: Staatliche Studienakademie Bautzen
+Country: Germany
+Web Page: https://www.ba-bautzen.de/
+
+Name: Technische Hochschule Mittelhessen
+Country: Germany
+Web Page: https://www.thm.de
+
+Name: Hochschule für Wirtschaft und Gesellschaft Ludwigshafen
+Country: Germany
+Web Page: https://www.hwg-lu.de
+
+Name: Leuphana Universität Lüneburg
+Country: Germany
+Web Page: https://www.leuphana.de
+
+Name: Ostbayerische Technische Hochschule Amberg-Weiden
+Country: Germany
+Web Page: https://www.oth-aw.de/
+
+Name: Musikhochschule Lübeck
+Country: Germany
+Web Page: https://www.mh-luebeck.de/
+
+Name: Hochschule für Musik und Theater München
+Country: Germany
+Web Page: https://website.musikhochschule-muenchen.de/
+
+Name: Universität der Künste Berlin
+Country: Germany
+Web Page: https://www.udk-berlin.de/
+
+Name: Hochschule für Musik und Tanz Köln
+Country: Germany
+Web Page: https://www.hfmt-koeln.de/
+
+Name: Hochschule für Musik Carl Maria von Weber
+Country: Germany
+Web Page: https://www.hfmdd.de/
+
+Name: Hochschule für Musik und Darstellende Kunst Stuttgart
+Country: Germany
+Web Page: https://www.hmdk-stuttgart.de/
+
+Name: Hochschule für Künste Bremen
+Country: Germany
+Web Page: https://www.hfk-bremen.de/
+
+Name: Hochschule für Musik und Theater „Felix Mendelssohn Bartholdy“ Leipzig
+Country: Germany
+Web Page: https://www.hmt-leipzig.de/
+
+Name: Hochschule für Musik, Theater und Medien Hannover
+Country: Germany
+Web Page: https://www.hmtm-hannover.de
+
+Name: Hochschule für Musik Detmold
+Country: Germany
+Web Page: https://www.hfm-detmold.de/
+
+Name: Deutsche Universität für Verwaltungswissenschaften Speyer
+Country: Germany
+Web Page: https://www.uni-speyer.de/
+
+Name: Europa-Universität Viadrina
+Country: Germany
+Web Page: https://www.europa-uni.de
+
+Name: Frankfurt School of Finance & Management
+Country: Germany
+Web Page: https://www.frankfurt-school.de/
+
+Name: Hochschule für Fernsehen und Film München
+Country: Germany
+Web Page: https://www.hff-muenchen.de/
+

@@ -43,6 +43,8 @@ INSTALLED_APPS = [
     "contact",
     "product",
     'modeltranslation',
+    "order",
+    "rest_framework",
 ]
 
 MIDDLEWARE = [

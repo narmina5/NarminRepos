@@ -1,6 +1,7 @@
 from django.db import models
 from django.utils import timezone
 
+
 class ContactInfo(models.Model):
     text = models.TextField()
     address = models.CharField(max_length=255)

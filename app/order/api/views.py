@@ -1,8 +1,8 @@
 from rest_framework import generics
 from product.api.serializers import ProductItemSerializer
-from product.models import ProductItem
-from ..models import Order
-from .serializers import OrderIsDoneSerializer, OrderSerializer
+from product.models import Product, ProductItem
+from ..models import Order, WishList
+from .serializers import AddToWishListSerializer, OrderIsDoneSerializer, OrderSerializer
 from rest_framework.response import Response
 import json
 
@@ -52,3 +52,37 @@ class OrderIsDoneAPIView(generics.UpdateAPIView):
         order_items.update(status=2)
         print('order_items', order_items)
         return super().put(request, *args, **kwargs)
+
+
+class AddToWishListAPIView(generics.GenericAPIView):
+    queryset = WishList.objects.all()
+    serializer_class = AddToWishListSerializer
+
+    def put(self, request, *args, **kwargs):
+        try:
+            wish_list = WishList.objects.get(user=request.user)
+        except Exception:
+            wish_list = WishList.objects.create(user=request.user)
+
+        product_id = int(request.data.get('product')[0])
+        added_product = Product.objects.get(id=product_id)
+
+        wish_list.product.add(added_product)
+        return Response({"detail": "OK"}, status=200)
+
+
+class RemoveFromWishListAPIView(generics.GenericAPIView):
+    queryset = WishList.objects.all()
+    serializer_class = AddToWishListSerializer
+
+    def put(self, request, *args, **kwargs):
+        try:
+            wish_list = WishList.objects.get(user=request.user)
+        except Exception:
+            wish_list = WishList.objects.create(user=request.user)
+
+        product_id = int(request.data.get('product')[0])
+        added_product = Product.objects.get(id=product_id)
+
+        wish_list.product.remove(added_product)
+        return Response({"detail": "OK"}, status=200)

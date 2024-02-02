@@ -1,10 +1,14 @@
-from django.shortcuts import render, redirect
-from django.shortcuts import get_object_or_404
+from typing import Any
+
+from django.db.models import QuerySet
+from django.http import HttpResponseRedirect
+from django.shortcuts import get_object_or_404, redirect, render
 from django.urls import reverse
+from django.utils.translation import gettext_lazy as _
 from django.views import generic
 
 from .models import Product, Category, Comment
-from. forms import CommentForm
+from .forms import CommentForm
 
 
 class ProductListView(generic.ListView):
@@ -12,6 +16,46 @@ class ProductListView(generic.ListView):
     model = Product
     context_object_name = 'products'
     paginate_by = 9
+
+    def get_queryset(self) -> QuerySet[Any]:
+        qs = super().get_queryset()
+        print('heyooo============', self.request.GET)
+        if 'filter' in self.request.GET:
+            our_filter = self.request.GET['filter']
+            if our_filter == 'latest':
+                qs = qs.order_by('-created_at')
+            elif our_filter == 'trendy':
+                qs = qs.order_by('-adding_to_basket_count')
+            elif our_filter == 'increased_price':
+                qs = qs.order_by('price')
+            elif our_filter == 'decreased_price':
+                qs = qs.order_by('-price')
+        if 'start_price' in self.request.GET and 'end_price' in self.request.GET:
+            start_price = int(self.request.GET.get('start_price'))
+            end_price = int(self.request.GET.get('end_price'))
+            qs = qs.filter(price__range=[start_price, end_price])
+        return qs
+
+    def get_context_data(self, **kwargs: Any):
+        context = super().get_context_data(**kwargs)
+        if 'start_price' in self.request.GET and 'end_price' in self.request.GET:
+            start_price = int(self.request.GET.get('start_price'))
+            end_price = int(self.request.GET.get('end_price'))
+            context['start_price'] = start_price
+            context['end_price'] = end_price
+        if 'filter' in self.request.GET:
+            our_filter = self.request.GET['filter']
+            if our_filter == 'latest':
+                context['our_filter'] = _('Latest')
+            elif our_filter == 'trendy':
+                context['our_filter'] = _('Popularity')
+            elif our_filter == 'increased_price':
+                context['our_filter'] = _('Increased price')
+            elif our_filter == 'decreased_price':
+                context['our_filter'] = _('Decreased price')
+        else:
+            context['our_filter'] = _('Sort by')
+        return context
 
 
 def products_by_category(request, category_slug):
@@ -34,13 +78,12 @@ def product_detail(request, product_slug):
     form = CommentForm()
 
     if request.method == 'POST':
-        if 'review-form' in request.POST:
-            form = CommentForm(request.POST)
-            if form.is_valid():
-                form.instance.user = request.user
-                form.instance.product = product
-                form.save()
-                return redirect(reverse("product-detail", args=(product.slug,)))
+        form = CommentForm(request.POST)
+        if form.is_valid():
+            form.instance.user = request.user
+            form.instance.product = product
+            form.save()
+            return redirect(reverse("product-detail", args=(product.slug,)))
 
     context = {
         'product': product,
@@ -51,3 +94,18 @@ def product_detail(request, product_slug):
         }
     return render(request, 'product/detail.html', context)
 
+
+def search(request):
+    query = request.GET.get('search')
+    if query:
+        products = Product.objects.filter(name__icontains=query)
+    else:
+        return HttpResponseRedirect(request.META.get('HTTP_REFERER'))
+
+    context = {
+        'result_count': len(products),
+        'query': query,
+        'results': products
+    }
+
+    return render(request, 'product/search.html', context)
